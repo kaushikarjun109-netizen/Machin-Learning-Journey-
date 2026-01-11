@@ -1,0 +1,7 @@
+Iterative Imputer also known as MICE.
+MICE stands for Multivariate Imputation by Chained Equations.
+
+The Assumptions for MICE are:-
+1. MCAR
+2. MAR
+3. MNAR
