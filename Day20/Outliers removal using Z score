@@ -1,0 +1,4 @@
+so we gonna fix outliers of the data only if it has normal distribution by using z-score
+we gonna do trimming and capping 
+Trimming -  just gonna remove the outliers but its drawback is that it convert our dataset very thin.
+Capping - It's our second technique for fixxing outliers and in z-score we just convert our outliers into with the maximum or minimum value.
